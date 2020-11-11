@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917669269618",
+    "firebase_url": "https://strack-8cd6d.firebaseio.com",
+    "project_id": "strack-8cd6d",
+    "storage_bucket": "strack-8cd6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917669269618:android:6b9cf9a8fec6faa70eb2eb",
+        "android_client_info": {
+          "package_name": "com.strack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917669269618-dgtmbpuott7rrgkqo2f3kdp9bj9f629p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw6a5agzkonZtCARTdz2R5OVEASUpywiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917669269618-dgtmbpuott7rrgkqo2f3kdp9bj9f629p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
